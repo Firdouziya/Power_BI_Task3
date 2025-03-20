@@ -1,3 +1,3 @@
 # Power_BI_Task3
-Task 3: REAL-TIME DASHBOARD
+Task 3: REAL-TIME DASHBOARD -> SET UP A REAL-TIME DASHBOARD USING STREAMING DATA (E.G., FROM AZURE OR A SIMULATED API FEED).
 ![Image](https://github.com/user-attachments/assets/a1421ad1-d97b-4600-9faf-f02ac6976728)
